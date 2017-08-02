@@ -1,0 +1,40 @@
+.quote{
+  color: white;  
+  text-align: center;
+  Margin-top: 60px;
+}
+.text-class{
+  text-align: center;
+  color: white;
+  text-decoration: underline;
+}
+.text-facts{
+  margin-left: 450px;
+  margin-bottom: 100px;
+  margin-top: 50px;
+  color: white;
+}
+.image {
+  margin-left: 300px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+body{
+  background-color: #81775C;
+}
+.text-reference{
+  color: pink;
+  position: absolute;
+  right: 10px;
+  text-align: right;
+}
+a{
+  color: orange;
+}
+h1{
+  font-size: 60px;
+  font-family: "Times New Roman", "Times";
+}
+
+
