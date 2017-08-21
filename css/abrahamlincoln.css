@@ -1,23 +1,33 @@
 .quote{
   color: white;  
   text-align: center;
-  Margin-top: 60px;
+  Margin-top: 5%;
+  font-size: 25px;
+   margin-left: 15%;
+  margin-right: 15%;
 }
 .text-class{
   text-align: center;
   color: white;
   text-decoration: underline;
+  font-size: 35px;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 5%;
 }
 .text-facts{
-  margin-left: 450px;
-  margin-bottom: 100px;
-  margin-top: 50px;
-  color: white;
+ margin-left: 15%;
+ margin-right: 15%;
+ margin-top: 5%;
+ color: white;
+ font-size: 20px;
+ text-align: left;
 }
-.image {
-  margin-left: 300px;
-  margin-top: 30px;
-  margin-bottom: 30px;
+.image {  
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 5%;  
+  width: 80%;
 }
 
 body{
@@ -33,8 +43,13 @@ a{
   color: orange;
 }
 h1{
-  font-size: 60px;
+  font-size: 80px;
   font-family: "Times New Roman", "Times";
+  text-align: center;
+  color: white;
+  text-decoration: underline;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 
